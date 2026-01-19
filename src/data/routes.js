@@ -21,12 +21,12 @@ const routes = [
     path: '/stats',
   },
   {
-    label: 'Contact',
-    path: '/contact',
-  },
-  {
     label: 'AI',
     path: 'AI',
+  },
+  {
+    label: 'Contact',
+    path: '/contact',
   },
 ];
 

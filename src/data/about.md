@@ -24,6 +24,7 @@ At Decentralize Music, I have learned how to build teams, manage people, shape c
 
 # I like
 
+-   Writing, Drawing,Painting
 -   Calesthentics
 -   Chess
 -   Studying tech, philosophy and belief systems
@@ -46,6 +47,7 @@ At Decentralize Music, I have learned how to build teams, manage people, shape c
 
 # I dream of
 
+-   being a helpful teacher and writer/artist
 -   always finding inspiration.
 -   enabling a brighter future.
 -   doing better.
