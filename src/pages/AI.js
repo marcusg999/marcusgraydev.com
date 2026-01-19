@@ -5,7 +5,7 @@ const AI = () => (
   <Main>
     <div style={{ margin: '0 auto', marginLeft: '80px' }}>
 
-      <header>AI Art and projects for clients</header>
+      <header>AI Art and projects for clients and myself</header>
 
       <h3>ArtlogixAI: Art client aggregator</h3>
       <h3>AI Agent</h3>
