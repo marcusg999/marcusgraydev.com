@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
 import AI from './pages/AI';
+import privacyPolicy from './pages/privacyPolicy';
 
 const { PUBLIC_URL } = process.env;
 
@@ -28,6 +29,7 @@ const App = () => (
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route path="/AI" component={AI} />
+        <Route path="/privacyPolicy" component={privacyPolicy} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

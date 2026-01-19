@@ -3,6 +3,16 @@ import React from 'react';
 
 const data = [
   {
+    title: <a href="https://marcusg999.github.io/fitshamer.github.io/" target="_blank" rel="noopener noreferrer">Fitshamer Github Access for testing</a>,
+    image: 'images/projects/fitshamerAppSS.png',
+    date: '2024-09-10',
+    desc:
+      ' '
+      + 'Iphone Application made with vanilla Javascript, HTML and CSS'
+      + ''
+      + '',
+  },
+  {
     title: <a href="https://github.com/marcusg999/CybersecurityPortfolio/tree/main/GoogleCybersecurityProfessionalCertificate" target="_blank" rel="noopener noreferrer">Cyber Security Portfolio</a>,
     subtitle: '',
     image: '/images/projects/Cybersecurity Portfolio GitHub.png',
@@ -14,14 +24,25 @@ const data = [
       + '',
   },
   {
-    title: <a href="https://physicsofhiphop.com" target="_blank" rel="noopener noreferrer">physicsofhiphop.com</a>,
+    title: <a href="https://marcusgraydev.com/physicsofhiphop.com" target="_blank" rel="noopener noreferrer">physicsofhiphop.com</a>,
     subtitle: '',
-    image: '/images/projects/physicsofhiphop.jpg',
-    date: '2023-01-23',
+    image: 'images/projects/physicsofhiphop.jpg',
+    date: '2021-03-20',
     desc:
-      ' '
-      + 'Web developer and designer. Writer, Customized WordPress theme. PHP.'
-      + ''
+      ' Original site built with wordpress, PHP and CSS.  '
+      + 'I am the owner, head of Marketing, sales, SEO and project managment.  '
+      + 'A demonstration of my entrepreneurial spirit, tenacity and ability to take ownership of any project'
+      + '',
+  },
+  {
+    title: <a href="https://HipHopdiaperbag.com" target="_blank" rel="noopener noreferrer">HipHopdiaperbag.com</a>,
+    subtitle: '',
+    image: '/images/projects/hiphopdiaperbag.png',
+    date: '2021-03-20',
+    desc:
+      ' Original site built with wordpress, PHP and CSS.  '
+      + 'I am the owner, head of Marketing, sales, SEO and project managment.  '
+      + 'A demonstration of my entrepreneurial spirit, tenacity and ability to take ownership of any project'
       + '',
   },
   {
@@ -47,9 +68,9 @@ const data = [
       + '',
   },
   {
-    title: <a href="https://web.archive.org/web/20230129081639/https://bitcoinbruh.com/" target="_blank" rel="noopener noreferrer">Bitcoinbruh.com</a>,
+    title: <a href="https://alkalineluxe.com/" target="_blank" rel="noopener noreferrer">Alkalineluxe</a>,
     subtitle: '',
-    image: '/images/projects/bitcoinbruh.png',
+    image: 'images/projects/alkalineluxe.jpg',
     date: '2020-01-10',
     desc:
       ' '
@@ -58,10 +79,10 @@ const data = [
       + '',
   },
   {
-    title: <a href="https://alkalineluxe.com/" target="_blank" rel="noopener noreferrer">alkalineluxe.com</a>,
+    title: <a href="https://web.archive.org/web/20230129081639/https://bitcoinbruh.com/" target="_blank" rel="noopener noreferrer">Bitcoinbruh.com</a>,
     subtitle: '',
-    image: '/images/projects/alkalineluxe.jpg',
-    date: '2018-09-20',
+    image: '/images/projects/bitcoinbruh.png',
+    date: '2020-01-10',
     desc:
       ' '
       + 'Web developer. Customized WordPress theme. PHP.'
@@ -78,17 +99,6 @@ const data = [
       + ''
       + 'Web developer and designer. Customized WordPress theme.'
       + ' Also Owner, head of Marketing, sales, SEO and project managment, product development. ',
-  },
-  {
-    title: <a href="https://HipHopdiaperbag.com" target="_blank" rel="noopener noreferrer">HipHopdiaperbag.com</a>,
-    subtitle: '',
-    image: '/images/projects/hiphopdiaperbag.png',
-    date: '2021-03-20',
-    desc:
-      ' Original site built with wordpress, PHP and CSS.  '
-      + 'I am the owner, head of Marketing, sales, SEO and project managment.  '
-      + 'A demonstration of my entrepreneurial spirit, tenacity and ability to take ownership of any project'
-      + '',
   },
 ];
 

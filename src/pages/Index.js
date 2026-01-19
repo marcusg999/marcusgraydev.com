@@ -11,7 +11,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">A CyberSecurity/IT Professional Obsessed with technologies ability to inspire an evolution in conciousness </Link></h2>
+          <h2 data-testid="heading"><Link to="/">IT Professional with a passion for AI Agent building and cybersecurity  </Link></h2>
           <p>
             A beautiful, sincere, creative soul,
             reaching for fullfilment and a challenging problem to solve between cups of decaf.
