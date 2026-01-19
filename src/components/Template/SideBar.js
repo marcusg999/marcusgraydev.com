@@ -25,7 +25,9 @@ const SideBar = () => (
         I like building things. I am a coding bootcamp survivor, and
         the co-founder and CTO of Decentralize Music. Before Decentralize Music I was
         at the record label Jazz is Dead where I was web3 director, project manager and
-        web developer.
+        web developer. Im currently obsessed with building AI Agents that solve problems for small businesses.
+        As well as produceing AI content and films with tools such as Higgefield, SORA, KLING.AI and many others. 
+        Can I build you a solution?
       </p>
       <ul className="actions">
         <li>
